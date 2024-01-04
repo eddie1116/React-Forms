@@ -1,0 +1,27 @@
+.authenticate-container {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.authenticate-button {
+    padding: 10px 15px;
+    background-color: #2d70b8;
+    color: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.error {
+    color: red;
+}
+
+.success {
+    color: green;
+}
+
+form label {
+    display: block;
+    margin-bottom: 15px;
+}
